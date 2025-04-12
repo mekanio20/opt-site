@@ -1,5 +1,41 @@
-# Vue 3 + Vite
+# Optowoy Platformasy
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Biz barada
+Optowoy - Türkmenistanda onlaýn söwda üçin niýetlenen platforma. Bu platforma arkaly siz öz onlaýn dükanyňyzy açyp, harytlaryňyzy satyp, müşderiler bilen aragatnaşyk gurup bilersiňiz.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Esasy aýratynlyklar
+- 🛍️ Onlaýn dükan döretmek
+- 💰 Haryt satmak
+- 👥 Müşderiler bilen işlemek
+- 📊 Statistika we hasabatlar
+- 🔒 Ygtybarly goldaw hyzmaty
+
+## Gurmak
+Proýekti gurmak üçin aşakdaky amallary ýerine ýetiriň:
+
+```bash
+# Proýekti klonlaň
+git clone https://github.com/mekanio20/opt-site.git
+
+# Proýekt papkasyna giriň
+cd opt-site
+
+# Gerekli paketlary ýükläň
+yarn install
+
+# Proýekti işe tushuriň
+yarn dev
+```
+
+## Tehnologiýalar
+- Vue.js
+- Tailwind CSS
+- Vite
+
+## Kontribusiýa
+Proýekte goşant goşmak isleýänler üçin:
+1. Fork ediň
+2. Feature branch dörediň (`git checkout -b feature/AmazingFeature`)
+3. Commit ediň (`git commit -m 'Add some AmazingFeature'`)
+4. Push ediň (`git push origin feature/AmazingFeature`)
+5. Pull Request açyň
