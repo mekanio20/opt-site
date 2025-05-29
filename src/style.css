@@ -9,6 +9,4 @@ body,
 #app {
   width: 100% !important;
   height: 100% !important;
-  background: linear-gradient(to bottom, #1E69E2, #498BFF, #0243BE);
-  overflow: hidden;
 }

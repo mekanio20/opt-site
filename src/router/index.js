@@ -4,9 +4,14 @@ const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
-      path: "/.well-known/apple-app-site-association",
-      name: "WellKnown",
-      component: () => import("@/views/well-known.vue"),
+      path: "/",
+      name: "Home",
+      component: () => import("@/views/Home.vue"),
+    },
+    {
+      path: "/privacy-policy",
+      name: "PrivacyPolicy",
+      component: () => import("@/views/Privacy.vue"),
     },
   ],
 });
