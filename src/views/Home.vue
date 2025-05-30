@@ -22,5 +22,7 @@
                 <img src="/app-store.svg" class="w-6 h-6" alt="App Store" /> App Store
             </a>
         </div>
+
+        <router-link to="/privacy" class="text-white text-sm mt-6 hover:underline">Privacy Policy</router-link>
     </div>
 </template>
