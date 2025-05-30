@@ -133,7 +133,7 @@
 
         <!-- Footer -->
         <footer class="bg-[#498BFF] text-white text-center py-4">
-            <p>&copy; <span id="year"></span> Your Company Name. All rights reserved.</p>
+            <p>&copy; <span id="year"></span> Parlak Nesil. All rights reserved.</p>
         </footer>
 
     </div>
